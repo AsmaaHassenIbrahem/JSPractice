@@ -1,0 +1,13 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "Questions : #  - 1- What is the return type of function with keyword async?",
+  "main": "Destructuring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC", 
+  "type": "module"
+}
